@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782823553342",
+    "project_id": "motroad-adde8",
+    "storage_bucket": "motroad-adde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782823553342:android:87a0def4ab353cf858946f",
+        "android_client_info": {
+          "package_name": "com.cursokotlin.motroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782823553342-v9ag4qjvno1kh6jlsa8lauhk4ha5fdnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQkQhYO7tuZbE79rVRuChozFYFfl3ZOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782823553342-v9ag4qjvno1kh6jlsa8lauhk4ha5fdnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
