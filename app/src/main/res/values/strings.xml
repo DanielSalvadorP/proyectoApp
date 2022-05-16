@@ -3,4 +3,6 @@
     <string name="password">password</string>
     <string name="Email">Email</string>
     <string name="ingresar">Ingresar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
 </resources>

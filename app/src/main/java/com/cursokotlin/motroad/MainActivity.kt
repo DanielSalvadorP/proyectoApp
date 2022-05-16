@@ -12,6 +12,10 @@ import com.google.firebase.auth.FirebaseUser
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
 import com.cursokotlin.motroad.R.id
+import com.google.android.libraries.places.api.Places
+import com.google.android.libraries.places.api.model.Place
+import com.google.android.libraries.places.widget.Autocomplete
+import com.google.android.libraries.places.widget.model.AutocompleteActivityMode
 
 
 class MainActivity : AppCompatActivity() {
@@ -21,11 +25,17 @@ class MainActivity : AppCompatActivity() {
     var botonAutenticar: Button?= null;
     private var mauth: FirebaseAuth?=null;
 
+
+
+
    public override fun onCreate(savedInstanceState: Bundle?) {
 
         setTheme(R.style.AppTheme)
-        Thread.sleep(2000)
+        Thread.sleep(1000)
         super.onCreate(savedInstanceState)
+
+
+
         mauth = FirebaseAuth.getInstance();
         setContentView(R.layout.activity_main);
         botonAutenticar=findViewById(id.signIn);
@@ -50,5 +60,7 @@ class MainActivity : AppCompatActivity() {
        }
 
     }
+
+
 
 }

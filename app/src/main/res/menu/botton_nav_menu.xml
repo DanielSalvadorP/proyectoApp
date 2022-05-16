@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home" />
+    <item android:title="New Rute"
+        android:icon="@drawable/ic_baseline_add_circle_24"
+        android:id="@+id/mas"/>
+
+    <item android:title="Opciones"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:id="@+id/menu"/>
+</menu>

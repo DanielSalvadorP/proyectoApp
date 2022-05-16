@@ -3,9 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/drawable/ic_baseline_add_circle_24.xml" value="0.231" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.231" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.231" />
         <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/drawable/splash.xml" value="0.231" />
-        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_inicio.xml" value="0.25" />
-        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_main.xml" value="0.20803782505910165" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_inicio.xml" value="0.18" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_maps.xml" value="0.18565400843881857" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_maps2.xml" value="0.10916919959473151" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/layout/activity_ruta_nueva.xml" value="0.22" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/menu/botton_nav_menu.xml" value="0.33" />
+        <entry key="..\:/Users/drant/AndroidStudioProjects/MotRoad/app/src/main/res/menu/overflow.xml" value="0.20885416666666667" />
       </map>
     </option>
   </component>
